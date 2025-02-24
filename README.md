@@ -1,4 +1,4 @@
-# Paper-Mario-the-Awakening-Dev-Stuff-
+# Paper-Mario-the-Awakening-Dev-Stuff
 
 
 This repo is for other people to view developer stuff before release like artwork and the story 
